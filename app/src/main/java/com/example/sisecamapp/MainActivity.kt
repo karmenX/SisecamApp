@@ -1,5 +1,5 @@
 package com.example.sisecamapp
-
+//29.07.2025 11.37
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -36,7 +36,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.sisecamapp.ui.theme.SisecamAppTheme
-
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
